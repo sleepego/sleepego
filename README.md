@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sleepego
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Tools, Hacks, Apps
+- 🌱 I’m currently learning Coding
+- 💞️ I’m looking to collaborate on big creators
+- 📫 How to reach me
+- discord: sleepego
 
 <!---
 sleepego/sleepego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
